@@ -4,7 +4,7 @@ A Django web app that says "Hello World!", [deployed on Heroku](https://django-h
 
 As an example of how to build a new Django app and deploy it on Heroku.
 
-Corresponding blog posts:
+Corresponding blog posts:-
 
 * [Building a Django App and Deploying It on Heroku](https://stefanbschneider.github.io/blog/django-heroku). Corresponds to [release v1.0](https://github.com/stefanbschneider/django-hello-world/releases/tag/v1.0.0).
 * [Adding Google Analytics to a Django App](https://stefanbschneider.github.io/blog/django-google-analytics). Corresponds to [release v1.1](https://github.com/stefanbschneider/django-hello-world/releases/tag/v1.1.0).
